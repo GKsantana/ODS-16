@@ -14,8 +14,16 @@
     width: 100%;
 }
 
+#onu{
+    position: absolute;
+    width: 140px;
+    height: 85px;
+    left: 20px;
+    top: 40px;
+}
+
 .ods16{
-    top: 13%;
+    top: 14%;
     width: 100%;
     position: absolute;
 }
@@ -47,15 +55,7 @@
     color: #261f85;
 }
 
-#onu{
-    position: absolute;
-    width: 140px;
-    height: 85px;
-    left: 20px;
-    top: 40px;
-}
-
-.barra{
+.barra1{
     position: absolute;
     width: 864px;
     height: 12px;
@@ -68,7 +68,7 @@
     position: absolute;
     width: 850px;
     left: 0px;
-    top: 900px;
+    top: 850px;
     font-weight: 1000;
     font-family: 'Montserrat';
     font-size: 40px;
@@ -76,4 +76,91 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-    
+
+.barra2{
+    position: absolute;
+    width: 864px;
+    height: 12px;
+    left: -24px;
+    top: 1170px;
+    background: #FFFFFF;
+}
+
+
+.texto2{
+    position: absolute;
+    width: 850px;
+    left: 0px;
+    top: 1220px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 37px;
+    text-indent: 20px;
+    color: #FFFFFF;
+}
+
+.girl{
+    width: 65%;
+    height: 450px;
+    top: 1300px;
+    left: -250px;
+    position: absolute;
+    border-radius: 9%;
+}
+
+.texto3{
+    position: absolute;
+    width: 650px;
+    left: 380px;
+    top: 1310px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 37px;
+    text-indent: 20px;
+    color: #FFFFFF;
+}
+
+.justica{
+    width: 65%;
+    height: 450px;
+    top: 1880px;
+    left: 430px;
+    position: absolute;
+    border-radius: 9%;
+}
+
+.texto4{
+    position: absolute;
+    width: 650px;
+    left: -267px;
+    top: 1915px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 37px;
+    text-indent: 20px;
+    color: #FFFFFF;
+}
+
+.texto5{
+    position: absolute;
+    width: 670px;
+    left: 60px;
+    top: 2500px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 37px;
+    text-indent: 20px;
+    color: #FFFFFF;
+}
+
+.rodape{
+    width: 1000;
+    height: 1000px;
+    top: 300px;
+    background-color: #50c900;
+    position: absolute;
+}
